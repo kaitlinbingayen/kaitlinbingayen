@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kaitlinbingayen
 - 👀 I’m interested in Data Analytics and Machine Learning!
-- 🌱 I’m currently strengthening my skills in Python, SQL, ML, Tableau, and Excel with IBM Data Analyst.
+- 🌱 Currently strengthening my skills in Python, SQL, ML, Tableau, and Excel.
 - 🌟 Pronouns: she/her
-- 🍵 Fun fact: When I'm not learning I enjoy lifting, pilates, walks, reading, and making matcha lattes!
+- 🍵 Fun fact: When I'm not learning I enjoy lifting, hot yoga, walks, reading, and trying new recipes!
 
 <!---
 kaitlinbingayen/kaitlinbingayen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
